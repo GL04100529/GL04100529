@@ -22,7 +22,8 @@ Github账号注册教程：https://www.bilibili.com/read/cv5107169/
 搭建好hexo博客后，界面很简单，但是关于如何发表自己的第一篇博客文章，新手小白不知道如何下手，希望以下这篇文章可以帮到你。
 方法一：在GitHub个人页自己写
 1.打开你的GitHub个人页面，点击New repository,新建一个仓库。
-![个人页面图](C:/Users/Queen/Pictures/Saved Pictures/微信图片_20230216103449.png)
+![个人页面图](https://user-images.githubusercontent.com/99810702/219259844-f61bbaae-34b4-43c4-ad6c-1e3e3a332b52.png)
+
 
 2.如图，设置你的仓库名称，查看权限，以及创建一个对仓库的描述文件，点击下方的crate repository按钮。
 ![勾选设置](https://user-images.githubusercontent.com/99810702/219256425-36c04278-c974-407e-b251-369f6c33fcce.png)
