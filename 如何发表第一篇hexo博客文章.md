@@ -19,10 +19,23 @@ Github账号注册教程：https://www.bilibili.com/read/cv5107169/
 
 
 
-搭建好hexo博客后，界面很简单，但是关于如何发表自己的第一篇博客文章，新手小白不知道如何下手，希望这篇文章可以帮到你。
+搭建好hexo博客后，界面很简单，但是关于如何发表自己的第一篇博客文章，新手小白不知道如何下手，希望以下这篇文章可以帮到你。
+方法一：在GitHub个人页自己写
+1.打开你的GitHub个人页面，点击New repository,新建一个仓库。
+![个人页面图](C:/Users/Queen/Pictures/Saved Pictures/微信图片_20230216103449.png)
 
+2.如图，设置你的仓库名称，查看权限，以及创建一个对仓库的描述文件，点击下方的crate repository按钮。
+![勾选设置](https://user-images.githubusercontent.com/99810702/219256425-36c04278-c974-407e-b251-369f6c33fcce.png)
+
+3.然后，打开这个仓库的.readme文件，开始你的表演
+![image](https://user-images.githubusercontent.com/99810702/219259251-8116c957-ff11-4e16-8382-e920e6713900.png)
+
+
+方法二：CTRL+c CTRL+v
 1，你需要一个编辑器。
      csdn自带的markdown编辑器就不错，但是需要你有csdn账号。注册登录后，找到个人中心>博客设置>默认编辑类型>选择markdown编辑器，保存。
 
 2，将你的文章内容写好，导出到本地。
+
+3，打开GitHub个人页，导入即可。
 
