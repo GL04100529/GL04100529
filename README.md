@@ -8,3 +8,5 @@
 GL04100529/GL04100529 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+写不出什么高级的话，就是没有文化。
